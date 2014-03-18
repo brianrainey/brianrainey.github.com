@@ -1,0 +1,4 @@
+destination: _site
+
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
