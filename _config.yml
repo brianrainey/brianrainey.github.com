@@ -3,5 +3,4 @@ destination: _site
 markdown:      kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
-paginate: 1
-paginate_path: "page:num"
+paginate: 5
