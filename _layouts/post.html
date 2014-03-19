@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="blog-post">
-  <h2 class="blog-post-title">[title goes here]</h2>
-  <p class="blog-post-meta">[metadata goes here]</p>
-  [content goes here]
+  <h2 class="blog-post-title">{{ page.title }}</h2>
+  <p class="blog-post-meta">{{ page.date | date_to_long_string }}</p>
+  {{ content }}
 </div>
