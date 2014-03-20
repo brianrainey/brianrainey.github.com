@@ -1,8 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Roboto);
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Roboto Slab', serif;
+}
+
+h4 {
+    font-size: 20px;
+}
+
 .profile-pic {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-h2 a, h2 a:hover, h2 a:active, h2 a:focus {
+.post-footer {
+    padding: 20px;
+}
+
+.post-footer a {
     color: inherit;
+    font-size: 20px;
 }
