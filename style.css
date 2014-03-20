@@ -8,13 +8,21 @@ h1, h2, h3, h4 {
     font-family: 'Roboto Slab', serif;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 h4 {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .profile-pic {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.blog-post {
+    font-size: larger;
 }
 
 .post-footer {
@@ -23,5 +31,5 @@ h4 {
 
 .post-footer a {
     color: inherit;
-    font-size: 20px;
+    font-size: 24px;
 }

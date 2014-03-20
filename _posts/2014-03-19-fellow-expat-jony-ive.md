@@ -12,6 +12,6 @@ favourite:
   myself to say math, instead of maths, so I say mathematics. I sound
   ridiculous,” he laughs.
 
-I'm losing the ability to get my mouth around "maths" and only
-yesterday concluded that "mathematics" was the way to go. If only all
-my decisions were as spectacular as his.
+I'm slowly losing the ability to get my mouth around "maths" and only
+yesterday concluded that "mathematics" could be the way to go. If only
+all my decisions were as spectacular as his.
