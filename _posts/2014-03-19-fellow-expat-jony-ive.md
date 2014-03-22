@@ -3,7 +3,7 @@ layout: post
 title: On Fellow Expat Jony Ive
 ---
 
-There'a a lot to like about [Time's interview with Jony
+There's a lot to like about [Time's interview with Jony
 Ive](http://time.com/jonathan-ive-apple-interview/). My personal
 favourite:
 
