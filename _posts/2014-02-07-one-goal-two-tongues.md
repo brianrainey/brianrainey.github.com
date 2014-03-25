@@ -19,7 +19,7 @@ goal](http://www.howlermagazine.com/what-planet-are-you-from/) at the
 However many times I watch it, I can't understand how "the little
 squat man" so easily waltzes past half the England team. 
 
-I remember the BBC comentator's sense of wonder as Maradona
+I remember the BBC commentator's sense of wonder as Maradona
 finally slotted the ball past Shilton. What I don't remember is the
 contempt with which he described him as he initially picked up the
 ball in his own half and how much that attitude would change in the 10
