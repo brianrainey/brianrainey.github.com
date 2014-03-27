@@ -3,8 +3,9 @@ layout: default
 title: Brian Rainey
 ---
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
+<!-- This loops through the 5 most recent posts -->
+{% for i in (0..5) %}
+{% assign post = site.posts[i] %}
 <div class="blog-post">
   <h2 class="blog-post-title">{{ post.title }} 
   <a href="{{ post.url }}"><small><span class="glyphicon glyphicon-circle-arrow-right"></span></small></a></h2>
