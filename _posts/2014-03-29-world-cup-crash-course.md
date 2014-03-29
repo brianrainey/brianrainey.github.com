@@ -12,6 +12,8 @@ Even nowadays as a more rational thirtysomething, seeing
 evokes memories of scoring a good foiler over anything to do with a
 hard, overpriced sandwich.
 
+<img src="http://1.bp.blogspot.com/-qD9BiR-8_F4/Uv-HcICAyVI/AAAAAAAAH3U/l7uM6bhdo_g/s1600/Planche+Panini+Irlande+du+Nord+Mexico+86.png" class="img-responsive" />
+
 I can't quite remember when I concluded I was too old for it all but
 even now, I'm a sucker for a one-off magazine -- anything with a score
 chart and some useless factoids about the Irans and Algerias of the
