@@ -21,5 +21,5 @@ Needless to say, in this digital age, Howler has it covered with their
 [World Cup Crash
 Course](http://www.howlermagazine.com/wc-crash-course-1/).
 
-I'll probably still by some stickers though.
+I'll probably still buy some stickers though.
 
