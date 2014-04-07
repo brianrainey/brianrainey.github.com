@@ -45,7 +45,9 @@ h4 {
 }
 
 .post-separator {
-    margin-top: 70px;
+    margin-top: 35px;
+    margin-bottom: 45px;
+    border-top: dotted #CCC;
 }
 
 .list-archives {
