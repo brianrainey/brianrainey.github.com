@@ -8,10 +8,6 @@ h1, h2, h3, h4 {
     font-family: 'Roboto Slab', serif;
 }
 
-.container {
-    padding-bottom: 60px;
-}
-
 h1 {
     font-size: 40px;
 }
@@ -42,6 +38,7 @@ h4 {
 .post-footer a {
     color: inherit;
     font-size: 24px;
+    padding-bottom: 60px;
 }
 
 .post-separator {
