@@ -8,9 +8,9 @@ Database](http://www.offbeat.group.shef.ac.uk/statues/database_footballmaps.htm)
 has a map of over 350 football statues from all over the world.
 
 Word has it there are SIX
-[Pelés](http://en.wikipedia.org/wiki/Pel%C3%A9) to be found. I'm also
+[Pelï¿½s](http://en.wikipedia.org/wiki/Pel%C3%A9) to be found. I'm also
 surprised to have never noticed the
-[Eusébio](http://en.wikipedia.org/wiki/Eus%C3%A9bio) at Gilette
+[Eusï¿½bio](http://en.wikipedia.org/wiki/Eus%C3%A9bio) at Gillette
 Stadium.
 
 <p class="text-muted">
