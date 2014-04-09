@@ -14,6 +14,5 @@ surprised to have never noticed the
 Stadium.
 
 <p class="text-muted">
-Via [When Saturday
-Comes](http://www.wsc.co.uk/wsc-daily/1176-april-2014/11389-global-list-of-football-statues).
+Via <a href="http://www.wsc.co.uk/wsc-daily/1176-april-2014/11389-global-list-of-football-statues">When Saturday Comes</a>.
 </p>
