@@ -3,7 +3,7 @@ layout: post
 title: Code Every Day
 ---
 
-Coding hero [John Resig](http://ejohn.org) (without whom there's be no
+Coding hero [John Resig](http://ejohn.org) (without whom there'd be no
 [jQuery](http://jquery.com)) on the idea of [writing code every
 day](http://ejohn.org/blog/write-code-every-day/):
 
