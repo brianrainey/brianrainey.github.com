@@ -3,8 +3,9 @@ layout: post
 title: Online Alter Egos
 ---
 
-Having always taken a certain pride in consistency and accountability,
-the idea of online pseudonyms has never sat too easy with me.
+Having always taken a certain pride in being consistent and
+accountable, the idea of online pseudonyms has never sat too easy with
+me.
 
 [We Need Online Alter Egos Now More Than
 Ever](http://www.wired.com/2014/04/why-we-need-online-alter-egos-now-more-than-ever/)
