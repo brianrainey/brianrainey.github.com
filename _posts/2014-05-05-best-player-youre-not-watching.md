@@ -4,7 +4,7 @@ title: The Best Player You're Not Watching
 ---
 
 As we watched the Revs' 2-1 win to go top of the conference this
-weekend, I genuinely started to wonder why Lee Nguyen never get's
+weekend, I genuinely started to wonder why Lee Nguyen never gets
 mentioned as a candidate for the US Men's National Team.
 
 It's good to see I wasn't the only one.
