@@ -10,7 +10,7 @@ mentioned as a candidate for the US Men's National Team.
 It's good to see I wasn't the only one.
 
 [The best MLS player you're not watching plays for the New England
-Revolution](http://www.mlssoccer.com/news/article/2014/03/03/armchair-analyst-best-mls-player-youre-not-watching-plays-new-england-revolu?utm_source=Twitter&utm_medium=referral&utm_content=News&utm_campaign=Unpaid)
+Revolution](http://www.mlssoccer.com/news/article/2014/03/03/armchair-analyst-best-mls-player-youre-not-watching-plays-new-england-revolu?utm_source=Twitter&utm_medium=referral&utm_content=News&utm_campaign=Unpaid),
 is a fantastic anaylsis of the current state of the Revs.
 
 > Gonçalves, Agudelo, Fagundez and Rowe were, in that order, the four
