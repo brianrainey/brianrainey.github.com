@@ -13,4 +13,4 @@ data](http://thinkprogress.org/culture/2014/04/29/3432050/can-you-hide-from-big-
 This article, plus another that it links to ([How Companies Learn Your
 Secrets](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=all&_r=0)),
 highlight the potential impact of the data we willingly or
-inadvertently share.
+inadvertently share every day.
