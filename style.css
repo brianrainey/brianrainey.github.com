@@ -47,6 +47,6 @@ h4 {
     border-top: dotted #CCC;
 }
 
-.list-archives {
-    font-size: large;
+span.archive-date {
+    font-family: monospace;
 }
