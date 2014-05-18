@@ -3,7 +3,7 @@ title: Building an Audience
 layout: post
 ---
 
-Matt Gemmell provides [advice and inspiration for budding internet
+Matt Gemmell provides [advice for budding internet
 celebrities](http://mattgemmell.com/little-guys/).
 
 >I’ve always thought the best measure of a piece of writing was that
