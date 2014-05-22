@@ -15,5 +15,5 @@ Guardian](http://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/eve
   and suchlike) that everyone else is doing the same thing. The only
   difference is that they think it's you who's truly competent.
 
-Something that I'm sure most of us already suspect, but very
-eloquently put.
+Something I'm sure many of us already suspect, but very eloquently
+put.
