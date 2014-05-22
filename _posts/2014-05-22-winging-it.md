@@ -3,7 +3,7 @@ title: Winging It
 layout: post
 ---
 
-[Oliver Burkeman for the
+[Oliver Burkeman for The
 Guardian](http://www.theguardian.com/news/oliver-burkeman-s-blog/2014/may/21/everyone-is-totally-just-winging-it):
 
 > As the UK organisation Action for Happiness likes to point out, one
