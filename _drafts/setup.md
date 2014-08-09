@@ -5,7 +5,7 @@ title: The Setup
 
 Inspired by [The Setup](http://usesthis.com/) and
 [My Linux Rig](http://www.mylinuxrig.com/tagged/the_linux_setup),
-here's what I use to get things done.
+this is my setup.
 
 **What hardware do I use?**
 
@@ -22,21 +22,26 @@ and it all sits atop an
 [Ikea Galant](http://www.ikea.com/us/en/catalog/products/S89806740/#/S29836976)
 desk.
 
-My laptop is a mid 2011 MacBook Air, still every bit as good as the
-day I bought it.
+My personal laptop is a
+[13" MacBook Air](http://support.apple.com/kb/SP683), the perfect size
+for a laptop and still every bit as good as the day I bought it. I get
+my day job done on a
+[Lenovo x201](http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x201). It's
+small, sturdy and can still handle all I throw at it after nearly 4
+years. It runs Linux wonderfully (currently
+[Xubuntu 14.01](http://xubuntu.org/)).
 
-I get my day job done on a Lenovo x201. It's small, sturdy and can
-still handle all I throw at it after nearly 4 years.
+The books I like to read are most often instructional, so E Ink rarely
+does them justice. A [Nexus 7](http://www.google.com/nexus/7/) does
+solid duty as my reader. My phone has been an iPhone for some time,
+and that's unlikely to change.
 
-I have a Nexus 7 that I use as my eBook reader. I mostly read
-instructional books; E Ink never does them justice.
-
-I'd love to be able to manage without a smart phone, but I've had
-various iPhones and that will continue to be the way of it.
-
-Nothing of any significance gets done without my Moleskine and
-pencil. I'd be surprised if anyone but me could make sense of the
-scribblings; I use it like RAM for the ageing HDD that is my brain.
+Nothing of any significance gets done without my
+[Moleskine](http://www.moleskine.com/us/collections/model/product/plain-notebook-large)
+and
+[pencil](http://www.waterman.com/en/hemisphere/183-stainless-steel-mechanical-pencil-ct-3501170920497.html). I'd
+be surprised if anyone but me could make sense of the scribblings; I
+use it like RAM for the ageing HDD that is my brain.
 
 **And what software?**
 
