@@ -7,7 +7,7 @@ Inspired by [The Setup](http://usesthis.com/) and
 [My Linux Rig](http://www.mylinuxrig.com/tagged/the_linux_setup),
 this is my setup.
 
-**What hardware do I use?**
+### What hardware do I use? ###
 
 My main [battlestation](http://www.reddit.com/r/battlestations) is a
 machine I proudly built myself from
@@ -34,7 +34,9 @@ years. It runs Linux wonderfully (currently
 The books I like to read are most often instructional, so E Ink rarely
 does them justice. A [Nexus 7](http://www.google.com/nexus/7/) does
 solid duty as my reader. My phone has been an iPhone for some time,
-and that's unlikely to change.
+and that's unlikely to change. I replaced the stock earbuds with some
+[Sonys](http://www.amazon.com/gp/product/B00BXEQXC6/ref=wms_ohs_product?ie=UTF8&psc=1)
+and have never looked back.
 
 Nothing of any significance gets done without my
 [Moleskine](http://www.moleskine.com/us/collections/model/product/plain-notebook-large)
@@ -43,25 +45,42 @@ and
 be surprised if anyone but me could make sense of the scribblings; I
 use it like RAM for the ageing HDD that is my brain.
 
-**And what software?**
+### And what software? ###
 
-I use Firefox for as much as I can, across every OS -- the open web's
-important!
+I use [Firefox](https://www.mozilla.org/en-US/firefox/desktop/) for as
+much as I can, across every OS --
+[the open web's important](https://www.mozilla.org/en-US/about/manifesto/)!
 
-I code and blog using Emacs. I got fed up trying to keep the
-combination of Brew and XCode up to date on my mac, so that machine
-has a headless Debian testing VM for all my coding needs. I SSH to the
-VM from the OSX terminal and it all works beautifully. The Emacs /
-TMUX combination means I can do pretty much whatever I want from a
-single SSH session.
+I code and blog using [Emacs](https://www.gnu.org/software/emacs/). I
+got fed up trying to keep the combination of Brew and XCode up to date
+on my Mac, so that machine has a headless
+[Debian](http://www.debian.org/) testing
+[VM](https://www.virtualbox.org/) for all my coding needs. I
+[SSH](https://en.wikipedia.org/wiki/Secure_Shell) to the VM from the
+OSX terminal and it all works beautifully. The Emacs /
+[TMUX](http://tmux.sourceforge.net/) combination means I can do pretty
+much whatever I want from a single SSH session.
 
-Tweetbot on iOS and OSX is by far my favourite Twitter client.
+[Tweetbot](http://tapbots.com/software/tweetbot/) on iOS and OSX is by
+far my favourite Twitter
+client. [Pocket Casts](http://www.shiftyjelly.com/android/pocketcasts)
+is probably the most important app on my phone.
 
-I'm rather addicted to Hearthstone, so that's always a click away on
-the Mac.
+I'm rather addicted to
+[Hearthstone](http://us.battle.net/hearthstone/en/), so that's always
+a click away on the Mac.
 
-This blog runs on Jekyll and I've put in some amount of time with the
-Clojure Koans recently.
+This [blog](https://github.com/brianrainey/brianrainey.github.com)
+runs on [Jekyll](https://github.com/jekyll/jekyll) and I've put in
+some amount of time with the
+[Clojure Koans](https://github.com/brianrainey/clojure-koans)
+recently.
 
-**What would be my dream setup?**
+### What would be my dream setup? ###
 
+In the not too distant future, we'll look back and laugh at
+multi-monitor setups. I'm looking forward to affordable large high-res
+screens. Beyond that, I'm happy with my current setup. Something that
+syncs all my machines better than my current
+[Github](https://github.com/) / [Dropbox](https://www.dropbox.com/)
+combination would be the icing on the cake.
