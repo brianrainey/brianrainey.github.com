@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Special Order
-permalink: /specalorder
+permalink: /specal-order
 ---
 
 As a [Netrunner][1] fan and general efficiency geek, I've never been
