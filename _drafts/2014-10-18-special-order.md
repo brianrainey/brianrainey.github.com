@@ -4,46 +4,36 @@ title: Special Order
 permalink: /specalorder
 ---
 
-As a [Netrunner][1] fan and efficiency geek, I've never been too happy
-with the workflow whenever I'm reading some Netrunner forum, see a
-card name, copy that text, paste it in to [netrunnerdb.com][2], see
-the card in a new tab ... you get the idea.
+As a [Netrunner][1] fan and general efficiency geek, I've never been
+too happy with the workflow whenever I'm reading some Netrunner forum,
+see a card name, copy that text, paste it in to [netrunnerdb.com][2],
+see the card in a new tab ... you get the idea.
 
 Special order is a Firefox Addon that aims to simplify the
 process. After installing, just highlight a card name on any web page,
-watch the toolbar icon light up (blue for Corp, red for Runner) and
-then click the button to see the card, without ever leaving the page.
+watch the toolbar icon light up (blue for Corp, red for Runner) then
+click the button to see the card.
 
 It's an easy one-click install over at [addons.mozilla.org][3].
 
-
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="http://www.placehold.it/800x600" alt="...">
-      <div class="carousel-caption">
-        Caption 1
-      </div>
+      <img src="/images/special-order/stimhack-1.png" alt="Stimhack">
     </div>
     <div class="item">
-      <img src="http://www.placehold.it/800x600" alt="...">
-      <div class="carousel-caption">
-        Caption 2
-      </div>
+      <img src="/images/special-order/stimhack-2.png" alt="Stimhack">
     </div>
     <div class="item">
-      <img src="http://www.placehold.it/800x600" alt="...">
-      <div class="carousel-caption">
-        Caption 3
-      </div>
+      <img src="/images/special-order/stimhack-3.png" alt="Stimhack">
+    </div>
+    <div class="item">
+      <img src="/images/special-order/netrunner-geeks.png" alt="Netrunner Geeks">
+    </div>
+    <div class="item">
+      <img src="/images/special-order/reddit.png" alt="Reddit">
     </div>
 
   </div>
