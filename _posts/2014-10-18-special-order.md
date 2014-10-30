@@ -16,6 +16,10 @@ click the button to see the card.
 
 It's an easy one-click install over at [addons.mozilla.org][3].
 
+Version 1.0 includes support for common acronyms (APP > AstroScript
+Pilot Program), synonyms (Andy > Andromeda), misspellings (Quandry >
+Quandary) and depluralization (Plascretes > Plascrete Carapace).
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
   <!-- Wrapper for slides -->
