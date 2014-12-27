@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>Posts from 2015</h1>
+
+<ul class="list-unstyled list-archives">
+  {% for post in site.posts %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% if this_year == "2015" %}
+  <li>
+    <span class="text-muted archive-date">{{ post.date | date: "%d %b" }} &raquo; </span>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+{% include home-link.html %}
