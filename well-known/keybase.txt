@@ -1,0 +1,73 @@
+https://keybase.io/brianrainey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brian.rainey.us
+  * I am brianrainey (https://keybase.io/brianrainey) on keybase.
+  * I have a public key with fingerprint 4C64 D875 142E F844 1B16  A744 D7E2 8C7F AEF7 B6A1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "4c64d875142ef8441b16a744d7e28c7faef7b6a1",
+            "host": "keybase.io",
+            "key_id": "D7E28C7FAEF7B6A1",
+            "uid": "7e2f763a77d4d3a014fc26f2dd5d7f19",
+            "username": "brianrainey"
+        },
+        "merkle_root": {
+            "ctime": 1424866351,
+            "hash": "0a03b01a1e2f66eab993d0563bf665d53026c71b60e56dfeab93860761e423dd245530de791964ccca39293ba27882f7d4101873e1bbd8e28246c86330ab1141",
+            "seqno": 162040
+        },
+        "service": {
+            "hostname": "brian.rainey.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424866387,
+    "expire_in": 157680000,
+    "prev": "1c4956853886413133346c002d19cc0e75d8caac3c0d40c8624527142bfeadf9",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkltoXEUcxne3ptVASpdS6kPQeJQqGrYzZ+bMzFnUpq0ptkjjJRvqgyxzO8lJ
+N+fsnrNJDUksKoiilEq1Ija0qUSJ0rRBEDQFpRcKTSsthRSKtuIN9sES8AriZSZG
+rM7TXL75/t/vP7O3ZVkml7381Su7p3/5cCI71xCZ7u+PPzHiiFgNO8URR1ZCHdXt
+LOID2ik6O/Ww4KkuhHFbFCtd6E/bljTtzpBO0jCOjAoUaIE6Y+1Wbi8HYdSrk2oS
+Wi8HS4IVox7Erg4YxlBAwinGimqXSRpwHVBBODSWfXFa/09VZ9GzHCqz+xDtdNlm
+umVj5xa6iWy0+sHFA+MTUII4pQorxAHEgXRJ4CrlKRpA3wpTnSwhiSTkUcLDyGQ1
+kQd0srOiy0kcL3LLemhVJitmhCAPmlA87bOQHCABIIemGiGaC99HCngECbP0lIeA
+SySFggDtERVYAWIEUAI1dpFSLvaMRmnqQ59gKSVHvusjwV3KmAFQGALIKNJQCMVM
+a1xMJCMIAS4gxBY31bUoNuGICzAYs+tkKJTa5raduxGw8DdhYTA196pJXI9lXDGH
+ffV6tWi568NV7XxQdHZpUV7yKYswUubpbnxbaKT/6wmj7Y5+uhomuhxahUcJA2bY
+OnrI1IAS+x5hHmKMYIggQsigAOAq6EsJNPUUk5xLJIHCwDCa1rjU2AvTNRX4/5Ji
+k5P3Gss07I14fTDRzthL2dabMtlcZnlTzn7eTPMtq/750W8eWPHHhue/7Ll5+/Vd
+D1/9eMPPozP9y44eu7Nn28KFF/LezNiOZOr+wKnM+sWLM1Nd8zuevL3n1cv3vdHy
+Xe/E+Sv7C9NHPv3k19rMyrnhzbP5R6YvdK05tWlbvuees4eeytV+aJ5rrP763tMH
+5db1Vz5rbSnNdq/OrThx/bb08d/3Hvxcnuj4IoybLu5+uTY6parz167NV9qO5VX0
+7mjbPueZfY3ze15bU1p4p3Q0OfTtg/mztcnJ7smmt99q7lxbvcQG1o+cE7c+Fs6V
+JvN3He8v7nluXf7H191veKFj/L3lE86jD7z4/m93Z9d9NH7m5Mo/Lx3oWttxx/at
+R366Clobq6bOlBrj+9mCfjZoPvwX
+=9Qox
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brianrainey
