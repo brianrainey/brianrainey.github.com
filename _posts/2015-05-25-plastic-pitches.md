@@ -10,8 +10,9 @@ cul-de-sacs, parks and church halls, my one school trip to Wembley
 didn't put me anywhere near the hallowed turf itself.
 
 These days I have easy access to plastic pitches that young me would
-never have dreamed possible. My local New England Revolution produce a
-beautiful, often successful style of passing football on FieldTurf.
+never have dreamed possible. My local New England Revolution produce
+an attractive, often successful style of passing football on
+FieldTurf.
 
 [It's time to destigmatize plastic pitches][1].
 
