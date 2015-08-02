@@ -3,7 +3,7 @@ title: My Linux Rig
 layout: post
 ---
 
-I'm proud and honoured to feature on
+It's an honour to feature on
 [My Linux Rig](http://www.mylinuxrig.com/post/123471753523/the-linux-setup-brian-rainey-software-engineer)
 this week.
 
