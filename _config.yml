@@ -6,3 +6,5 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 permalink: pretty
 
+gems:
+  - jekyll-sitemap
