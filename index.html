@@ -8,7 +8,7 @@ title: Home
 {% assign post = site.posts[i] %}
 <div class="blog-post">
   <h2 class="blog-post-title">{{ post.title }} 
-  <a href="{{ post.url }}"><small><span class="glyphicon glyphicon-link"></span></small></a></h2>
+  <a href="{{ post.url }}" title="Permalink - {{ post.title }}"><small><span class="glyphicon glyphicon-link"></span></small></a></h2>
   <p class="blog-post-meta text-muted">{{ post.date | date_to_long_string }}</p>
   {{ post.content }}
 </div>
