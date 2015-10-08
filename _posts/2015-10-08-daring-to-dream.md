@@ -36,7 +36,7 @@ would send the Green and White Army to the European Championships for
 the first time in history.
 
 That wee boy from the '86 Railway Stand ended up straying a bit
-further from home than he ever intended. If anybody needs him
+further from home than he'd ever intended. If anybody needs him
 tomorrow, he'll be in [The Local][2], hopefully celebrating.
 
 Now where in Minneapolis could I buy myself a new rosette? Perhaps
