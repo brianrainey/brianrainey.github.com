@@ -10,7 +10,7 @@ Bruce Schneier's security blog is perhaps my favourite example of Einstein's fam
 
 [The Internet of Things Will Be the World's Biggest Robot.][1]
 
-Like most tech neologisms, I've often found "IOT" frustratingly vague. Schneier distills it down to its essence and paints a wonderful picture of how it applies to our lives in the very near future.
+Like many tech neologisms, I've often found "IOT" frustratingly vague. Schneier distills it down to its essence and paints a wonderful picture of how it applies to our lives in the very near future.
 
 I suggest _not_ watching [Ex Machina][2] too soon after reading his post.
 
